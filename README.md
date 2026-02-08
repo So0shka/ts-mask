@@ -7,7 +7,7 @@ A simple library to define and infer types for object fields using "masks" in Ty
 Install via npm:
 
 ```bash
-npm install ts-mask
+npm install @so0shka/ts-mask
 ```
 
 ## Usage

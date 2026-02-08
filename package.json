@@ -1,6 +1,6 @@
 {
   "name": "@so0shka/ts-mask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript library for creating object field masks and inferring types from them",
   "homepage": "https://github.com/So0shka/ts-mask#readme",
   "bugs": {
