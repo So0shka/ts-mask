@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "nodenext",
+        "module": "nodenext",
+        "target": "es2015",
+        "lib": [
+            "ES2015"
+        ],
+        "declaration": true,
+        "strict": true,
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "paths": {
+            "@/*": [
+                "./src/*"
+            ]
+        },
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

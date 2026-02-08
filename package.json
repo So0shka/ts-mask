@@ -1,0 +1,30 @@
+{
+  "name": "@so0shka/ts-mask",
+  "version": "1.0.0",
+  "description": "A TypeScript library for creating object field masks and inferring types from them",
+  "homepage": "https://github.com/So0shka/ts-mask#readme",
+  "bugs": {
+    "url": "https://github.com/So0shka/ts-mask/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/So0shka/ts-mask.git"
+  },
+  "license": "MIT",
+  "author": "So0shka",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
